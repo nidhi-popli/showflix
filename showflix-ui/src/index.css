@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: #0f0f0f;
+  color: white;
+  overflow-x: hidden;
+}
+
+/* hide visual scrollbars */
+* {
+  scrollbar-width: none;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
